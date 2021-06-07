@@ -1,9 +1,5 @@
 # Final Project: Minesweeper
 
-Name: Zhiying Cui
-
-NetID: zc2191
-
 ## Tasks
 
 - Build the game functionally
@@ -16,7 +12,7 @@ The architecture for saving and loading game looks like this:
 
 <img src="./imgs/1.png" alt="server architecture" style="zoom:50%;" />
 
-##Architecture 
+## Architecture 
 
 - Game UML diagram
 
